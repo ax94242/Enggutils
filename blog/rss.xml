@@ -4,15 +4,22 @@
         <title>Explore my digital shelf and find your answers! Blog</title>
         <link>https://ax94242.github.io/blog</link>
         <description>Explore my digital shelf and find your answers! Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Workplace Psychometric test]]></title>
+            <link>https://ax94242.github.io/blog/Workplace Psychometric test</link>
+            <guid>Workplace Psychometric test</guid>
+            <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the enggutils.co.in blog section.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ax94242.github.io/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to the enggutils.co.in blog section. I will keep you posted for latest updates in Healthcare regulatory affairs, material discovery and computation topics'.]]></description>
+            <link>https://ax94242.github.io/blog/Welcome</link>
+            <guid>Welcome</guid>
+            <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the enggutils.co.in blog section. I created this website to document all the experiences and struggles that helped me to reach out to my desired goals. This website is a digital shelf, a collection of all projects, side hustles, software designing, Legal and compliance review, transparency report, engineering and also some academics insights.]]></description>
         </item>
     </channel>
 </rss>

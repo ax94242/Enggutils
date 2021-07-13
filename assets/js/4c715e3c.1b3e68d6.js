@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8926],{5209:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"psychometric","name":"psychometric","count":1,"permalink":"/blog/tags/psychometric"}')}}]);

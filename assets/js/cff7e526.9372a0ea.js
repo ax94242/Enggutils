@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3423],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Workplace Psychometric test","permalink":"/blog/Workplace Psychometric test"},{"title":"Welcome","permalink":"/blog/Welcome"}]}')}}]);

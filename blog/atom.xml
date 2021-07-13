@@ -2,16 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ax94242.github.io/blog</id>
     <title>Explore my digital shelf and find your answers! Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ax94242.github.io/blog"/>
     <subtitle>Explore my digital shelf and find your answers! Blog</subtitle>
     <icon>https://ax94242.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Workplace Psychometric test]]></title>
+        <id>Workplace Psychometric test</id>
+        <link href="https://ax94242.github.io/blog/Workplace Psychometric test"/>
+        <updated>2021-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the enggutils.co.in blog section.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://ax94242.github.io/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the enggutils.co.in blog section. I will keep you posted for latest updates in Healthcare regulatory affairs, material discovery and computation topics'.]]></summary>
+        <id>Welcome</id>
+        <link href="https://ax94242.github.io/blog/Welcome"/>
+        <updated>2021-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the enggutils.co.in blog section. I created this website to document all the experiences and struggles that helped me to reach out to my desired goals. This website is a digital shelf, a collection of all projects, side hustles, software designing, Legal and compliance review, transparency report, engineering and also some academics insights.]]></summary>
     </entry>
 </feed>
