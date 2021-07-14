@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ax94242.github.io/blog</id>
-    <title>Explore my digital shelf and find your answers! Blog</title>
+    <title>EnggUtils Blog</title>
     <updated>2021-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ax94242.github.io/blog"/>
-    <subtitle>Explore my digital shelf and find your answers! Blog</subtitle>
+    <subtitle>EnggUtils Blog</subtitle>
     <icon>https://ax94242.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Workplace Psychometric test]]></title>

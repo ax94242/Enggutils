@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Explore my digital shelf and find your answers! Blog</title>
+        <title>EnggUtils Blog</title>
         <link>https://ax94242.github.io/blog</link>
-        <description>Explore my digital shelf and find your answers! Blog</description>
+        <description>EnggUtils Blog</description>
         <lastBuildDate>Tue, 13 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
