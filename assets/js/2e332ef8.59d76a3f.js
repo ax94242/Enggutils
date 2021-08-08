@@ -1,1 +1,0 @@
-(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1353],{847:function(e,t,n){"use strict";n.r(t),n.d(t,{Hello:function(){return r}});var l=n(7294),c=n(2611),r=function(){return l.createElement(c.Z,{title:"Hello"},l.createElement("div",{className:"container"},l.createElement("h1",null,"embeded file")))};t.default=r}}]);
