@@ -1,1 +1,0 @@
-(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3771],{8674:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"digital-shelf","name":"digital shelf","count":1,"permalink":"/blog/tags/digital-shelf"}')}}]);
